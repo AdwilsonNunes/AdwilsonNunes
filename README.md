@@ -5,7 +5,7 @@
 Sobre mim:
 
 - 🔭 Atualmente trabalho em escritório Financeiro/Contábil
-- 🏠 Atualmente moro e trabalho Teresina-PI
+- 🏠 Atualmente moro e trabalho em Teresina-PI
 - 🏫 Cursando Gestão de T.I
 - 📚 Engenheiro de Dados aspirante
 
