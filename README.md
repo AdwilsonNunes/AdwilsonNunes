@@ -33,6 +33,9 @@ Onde pode me encontrar:
   <a href="(https://www.instagram.com/adwnunes/)">
     <img align="center" alt="" height="40" width="40" src="https://github.com/AdwilsonNunes/Portfolio/blob/main/social%20icons/instagram.png?raw=true">
   </a>
+  <a href="http://www.youtube.com/@adwilsonnunes2495">
+    <img align="center" alt="" height="40" width="40" src="https://github.com/AdwilsonNunes/Portfolio/blob/main/social%20icons/youtube.png?raw=true">
+  </a>
 </div>
 
 ## 
