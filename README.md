@@ -24,13 +24,13 @@ Principais Ferramentas:
   
 Onde pode me encontrar:
 <div>
-  <a href="(https://sites.google.com/view/portflioadwilsonanalistadados/in%C3%ADcio)">
+  <a href="https://sites.google.com/view/portflioadwilsonanalistadados/in%C3%ADcio">
     <img align="center" alt="" height="40" width="40" src="https://github.com/AdwilsonNunes/Portfolio/blob/main/social%20icons/web-link.png?raw=true">
   </a>
   <a href="www.linkedin.com/in/adwilson-nunes--dataanalyst">
     <img align="center" alt="" height="40" width="40" src="https://github.com/AdwilsonNunes/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
   </a>
-  <a href="(https://www.instagram.com/adwnunes/)">
+  <a href="https://www.instagram.com/adwnunes/">
     <img align="center" alt="" height="40" width="40" src="https://github.com/AdwilsonNunes/Portfolio/blob/main/social%20icons/instagram.png?raw=true">
   </a>
   <a href="http://www.youtube.com/@adwilsonnunes2495">
