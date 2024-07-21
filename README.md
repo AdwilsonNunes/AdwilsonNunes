@@ -27,10 +27,10 @@ Onde pode me encontrar:
   <a href="(https://sites.google.com/view/portflioadwilsonanalistadados/in%C3%ADcio)">
     <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/web-link.png?raw=true">
   </a>
-  <a href="www.linkedin.com/in/adwilson-nunes--dataanalyst" target="_blank">
+  <a href="www.linkedin.com/in/adwilson-nunes--dataanalyst">
     <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
   </a>
-  <a href="(https://www.instagram.com/adwnunes/)" target="_blank">
+  <a href="(https://www.instagram.com/adwnunes/)">
     <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/instagram.png?raw=true">
   </a>
 </div>
