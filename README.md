@@ -23,7 +23,7 @@ Principais Ferramentas:
 
   
 Onde pode me encontrar:
-<div style="display: inline_block">
+<div>
   <a href="(https://sites.google.com/view/portflioadwilsonanalistadados/in%C3%ADcio)" target="_blank">
     <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/web-link.png?raw=true">
   </a>
