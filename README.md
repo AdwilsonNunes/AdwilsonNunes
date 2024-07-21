@@ -24,11 +24,8 @@ Principais Ferramentas:
   
 Onde pode me encontrar:
 <div style="display: inline_block">
-  <a href="[https://brucefonseca.com/](https://sites.google.com/view/portflioadwilsonanalistadados/in%C3%ADcio)" target="_blank">
+  <a href="(https://sites.google.com/view/portflioadwilsonanalistadados/in%C3%ADcio)" target="_blank">
     <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/web-link.png?raw=true">
-  </a>
-  <a href="https://www.youtube.com/@brucefonseca1986/videos" target="_blank">
-    <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/youtube.png?raw=true">
   </a>
   <a href="https://www.linkedin.com/in/bruce-fonseca/" target="_blank">
     <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
