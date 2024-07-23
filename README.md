@@ -17,7 +17,7 @@ Principais Ferramentas:
   <img align="center" alt="Python" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/Python-logo-notext.svg.png?raw=true">
   <img align="center" alt="SQL" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
   <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
-  <img align="center" alt="Excel" height="55" width="90" src="https://raw.githubusercontent.com/AdwilsonNunes/imagtest/ebb53d533cec78c3c1bcf50883fcc8d6aa5143a9/ofii%20sem%20fundo.png?token=BJJGXTXJ2CDBRFLMDJ7A7KTGTWGY6">
+  <img align="center" alt="Excel" height="55" width="90" src="https://github.com/AdwilsonNunes/imagtest/blob/main/ofii%20sem%20fundo.png?raw=true">
 </div>
 
 <br>
